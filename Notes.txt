@@ -1,0 +1,83 @@
+
+	Full Stack Java
+	---------------
+			Web Application : 
+					  A web Page opens in web browser with url
+										https or http://www.google.com
+										https or http://www.flipkart.com
+
+										Restful Web Service [POST,PUT,GET,DELETE]
+											Ajax() or fetch in js ,React- axios
+				To design a web page :html5 css3[styling] and js [React.Angular or Vue JS etc..]
+						Dynamic,Responsive and simple Navigation
+			UI/UX ---> Desgin in jpeg or png
+
+
+			Build fast, responsive sites with Bootstrap
+
+			npm i bootstrap@5.2.3
+
+
+			SignUp Page [Link to Login Page]
+			Login Page [Link to Sign Up Page] {write a js to compare value for username="admin" && password = "admin123"}
+			DashBoard <- Side Menu and Logout Option
+					COmponent1
+					Component2
+					....
+					ComponentN
+
+
+			Database: mysql : localhost:3306
+				  mongoDB: localhost:27017
+
+				 users: 3001
+				 products: 3002
+				 Eureka Server : 3003
+				 CLoud Gateway : 3004
+				 Service5 : 3005
+
+
+				UI: 
+					localhost:3000 or 127.0.0.1
+
+
+					aws: Amazon Web Services
+
+					EC2 :
+
+					Instances :
+
+					Lanch Instances :
+					
+					In Quick Start: select Ubuntu [Make sure Free Tier ELigible is been selected]
+				
+					Instance Type: t2.micro
+
+					Create key pair:
+
+						keypair name: login-aws
+						key Pair Type: RSA
+						Private key file format : ppk
+
+					Network Settings:
+							Security Group
+							Allow SSH
+							Allow HTTPS
+							Allow HTTP
+
+						Click on Launch Instance: 
+								Successfully initiated launch of instance
+
+
+						IP: 174.129.69.176
+
+
+
+
+
+
+
+
+
+
+
