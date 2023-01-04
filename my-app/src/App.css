@@ -1,0 +1,49 @@
+body{
+  background-color: darkolivegreen;
+  color: white;
+}
+
+#signup-div{
+  border: 1px solid white;
+  text-align: center;
+  width: fit-content;
+  margin: auto;
+  padding: 20px 20px 20px 20px;
+  margin-top: 10%;
+}
+
+
+#link{
+  color: white;
+}
+
+table tr td{
+  border: 1px solid white;
+  border-collapse: collapse;
+}
+
+ul#horizontal-list {
+  list-style: none;
+}
+
+ul#horizontal-list li{
+  display: inline;
+  color: white;
+  font-size: 24px;
+  margin: 2%;
+}
+
+ul li a#logout{
+  margin-right: 20px;
+  float: right;
+  text-decoration: none;
+  color: white;
+}
+
+ul li a#products{   
+  text-decoration: none;
+}
+
+#home-div, #products-div{
+  padding:40px 40px 40px 40px;
+}
